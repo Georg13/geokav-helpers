@@ -1,0 +1,22 @@
+{
+    "name": "geokav/helpers",
+    "version": "1.0.0",
+    "description": "Reusable PHP helpers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GeoKav\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Georgii Kav",
+            "email": "geokav87@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    }
+}
+
